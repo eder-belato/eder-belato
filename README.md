@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @eder-belato
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Oi, tudo bem? 🙃
 
-<!---
-eder-belato/eder-belato is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Esse é o repositório do Curso HTML WEB DEVELOPES, referente o projeto recriando a interface de login do Instagram! 
+
+### Os requisitos são:
+
+* [HTML básico](https://www.w3schools.com/html/)
+* [CSS básico](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+
+## 🚀 Let's code! 🚀
